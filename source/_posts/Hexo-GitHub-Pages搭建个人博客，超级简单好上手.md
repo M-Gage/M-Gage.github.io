@@ -1,7 +1,11 @@
 ---
 title: Hexo + GitHub Pages搭建个人博客，超级简单好上手
 date: 2023-04-12 17:10:15
-tags: 学习
+categories:
+- 学习
+tags: 
+- Hexo
+- Git
 
 ----
 ## 前言
@@ -149,4 +153,4 @@ hexo clean && hexo deploy
 下次在说一下换主题和开始写作
 
 
-
+[](/Users/Gage/hexo/blog/themes/ayer/source/images/video_PV03_Music.mp4)
