@@ -1,8 +1,14 @@
 ---
-title: 相册
-layout: photo
-comments: true
+title: 摄影
 albums: [
-["/images/cover1.jpg", "封面1"],["/images/cover2.jpg", "封面2"]      
+["date", "2023-04-10"],
+["/images/cover1.jpg", "封面1"],
+["/images/cover2.jpg", "封面2"],
+["/images/cover3.jpg", "封面3"],
+["/images/cover5.jpg", "封面5"],
+["/images/cover6.jpg", "封面6"],
+["blank", "封面6"],
+["date", "2023-04-12"],
+["/images/cover4.jpg", "封面5"]      
 ]
 ---
