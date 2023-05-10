@@ -48,7 +48,7 @@
           searchFunc("/search.xml", "local-search-input", "local-search-result")
         })), e(".share-outer").on("click",
         (() => e(".share-wrap").fadeToggle())), e("img.lazy").lazyload(
-        {effect: "fadeIn"}), e(".justified-gallery").justifiedGallery(
+        {effect: "fadeIn"}), e("#gallery").justifiedGallery(
         {rowHeight: 200, margins: 5}), e(document).ready((function (e) {
       e(".anchor").on("click", (function (t) {
         t.preventDefault(), e("main").animate({scrollTop: e(".cover").height()},
